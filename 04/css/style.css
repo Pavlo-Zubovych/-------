@@ -1,0 +1,46 @@
+.test   {
+    width: 50px;
+    height: 50px;
+    background: orange;
+    /* position: fixed; */
+
+    /* position: static; 
+    bottom: 50px;
+    top: 50px;
+    left: 200px; */
+
+    position: relative;
+}
+p{
+    /* height: 100px; */
+    /* background: peru; */
+}
+input[type="checkbox"]{
+    position: relative;
+    top: 2px;
+}
+.box {
+    width: 400px;
+    height: 200px;
+    background: peru;
+    background: green;
+    position: relative;
+    
+
+}
+.bo{
+    background: purple;
+    height: 100px;
+    width: 100px;
+}
+.bob{
+    background: hotpink;
+    /* height: 100px; */
+    width: 100px;
+    position: absolute;
+    top: 10px;
+    bottom: 10px;
+    left: 100px;
+
+
+}
